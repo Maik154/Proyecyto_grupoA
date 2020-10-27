@@ -1,0 +1,3 @@
+global ui
+
+print (ui)
